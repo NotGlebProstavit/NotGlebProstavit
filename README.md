@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vladislav Pustovit
+- 🏫 I'm studing in ICIS NRNU MEPhI in the first year
+- 👀 I’m interested in IT (in particular in information security), math and physics
+- Here I place my work from my project practice at the university
